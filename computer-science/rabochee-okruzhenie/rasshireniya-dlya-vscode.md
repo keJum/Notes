@@ -23,15 +23,37 @@ description: Visual Studio Code
 * Russian Language Pack for Visual Studio Code
 * Spelling Checker \(RU,EN\)
 * Test Explorer UI
-* PHP Intelephense
-* PHP IntelliSense
-* Python
-* Python Path
-* Python Test Explorer for Visual Studio Code
 * TODO Parser
 * Visual Studio IntelliCode
 * VSCode Dimmer Block
 * VSCode Essentials
 * vscode-icons
 * vscode-pdf
+
+## Для PHP
+
+* PHP Intelephense
+* PHP IntelliSense
+* PHP Debug
+* PHP Namespace Resolver
+* PHP Formatter
+* PHP Formatter
+* PHPDocument
+
+### Для Laravel
+
+* Laravel goto view
+* laravel-goto-controller
+* Laravel Helpers
+* Laravel Extra Intellisense
+* Laravel Assist
+* laravel-goto-controller
+* Laravel Blade Snippets
+* Laravel 5 Snippets onecentlin
+
+## Для Python 
+
+* Python
+* Python Path
+* Python Test Explorer for Visual Studio Code
 
