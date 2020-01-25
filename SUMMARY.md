@@ -4,7 +4,8 @@
 
 ## 💻Computer Science
 
-* [🏰 Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie.md)
+* [🏰 Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie/README.md)
+  * [🏰 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya.md)
 * [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
