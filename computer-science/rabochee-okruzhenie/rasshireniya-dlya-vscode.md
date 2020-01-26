@@ -29,6 +29,9 @@ description: Visual Studio Code
 * VSCode Essentials
 * vscode-icons
 * vscode-pdf
+* Bookmarks
+* Log File Highlighter
+* Log Viewer
 
 ## Для PHP
 
