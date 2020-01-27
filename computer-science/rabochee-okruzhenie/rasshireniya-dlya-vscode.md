@@ -32,6 +32,7 @@ description: Visual Studio Code
 * Log File Highlighter
 * Log Viewer
 * Excel Viewer
+* Time tracker
 
 ## Для PHP
 
