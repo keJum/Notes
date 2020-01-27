@@ -40,7 +40,6 @@ description: Visual Studio Code
 * PHP Debug
 * PHP Namespace Resolver
 * PHP Formatter
-* PHP Formatter
 * PHPDocument
 
 ### Для Laravel
@@ -50,9 +49,9 @@ description: Visual Studio Code
 * Laravel Helpers
 * Laravel Extra Intellisense
 * Laravel Assist
-* laravel-goto-controller
 * Laravel Blade Snippets
 * Laravel 5 Snippets onecentlin
+* Laravel goto config
 
 ## Для Python 
 
