@@ -26,12 +26,12 @@ description: Visual Studio Code
 * TODO Parser
 * Visual Studio IntelliCode
 * VSCode Dimmer Block
-* VSCode Essentials
 * vscode-icons
 * vscode-pdf
 * Bookmarks
 * Log File Highlighter
 * Log Viewer
+* Excel Viewer
 
 ## Для PHP
 
