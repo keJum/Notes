@@ -51,7 +51,7 @@ composer global require "squizlabs/php_codesniffer=*"
 ### Для Laravel
 
 * Laravel goto view
-* laravel-goto-controller
+* Laravel-goto-controller
 * Laravel Helpers
 * Laravel Extra Intellisense
 * Laravel Assist
