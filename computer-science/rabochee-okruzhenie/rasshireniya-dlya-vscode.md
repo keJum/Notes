@@ -42,6 +42,11 @@ description: Visual Studio Code
 * PHP Namespace Resolver
 * PHP Formatter
 * PHPDocument
+* phpcs - требуется установить через композер PHP Sniffer
+
+```php
+composer global require "squizlabs/php_codesniffer=*"
+```
 
 ### Для Laravel
 
