@@ -5,6 +5,7 @@
 ## 💻Computer Science
 
 * [🏰 Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie/README.md)
+  * [💬 Термины ООП](computer-science/arkhitekturnoe-proektirovanie/terminy-oop.md)
   * [🏍 Принципы DRY, KISS, YAGNI](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
   * [🏰 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya.md)
 * [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
