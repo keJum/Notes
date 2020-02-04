@@ -15,3 +15,7 @@
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
 * [🔷 Операционная система](computer-science/operacionnaya-sistema.md)
 
+## 🐢 Биохакинг
+
+* [Untitled](biokhaking/untitled.md)
+
