@@ -6,7 +6,8 @@
 
 * [🏛️ Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie/README.md)
   * [🏍 Принципы DRY, KISS, YAGNI](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
-  * [⚒️ Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya.md)
+  * [⚒️ Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
+    * [👻 Принципы S.O.L.I.D](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
   * [🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya.md)
 * [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
 * [🎰 Алгоритмы](computer-science/algoritmy.md)

@@ -2,7 +2,7 @@
 description: Visual Studio Code
 ---
 
-# 👽 🟦 Расширения для VSCODE
+# 🟦 Расширения для VSCODE
 
 * Bracket Pair Colorizer 2
 * Code Spell Checker
