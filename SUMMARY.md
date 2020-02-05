@@ -9,7 +9,7 @@
   * [⚒️ Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
     * [👻 Принципы S.O.L.I.D](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
   * [🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya.md)
-* [🛹 Языки программирования](computer-science/yazyki-programmirovaniya/README.md)
+* [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
   * [🐘 PHP](computer-science/yazyki-programmirovaniya/php/README.md)
     * [📃 PSR](computer-science/yazyki-programmirovaniya/php/psr.md)
     * [📦 Composer](computer-science/yazyki-programmirovaniya/php/composer.md)
