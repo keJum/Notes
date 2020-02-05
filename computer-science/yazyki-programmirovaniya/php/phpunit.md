@@ -1,6 +1,10 @@
 ---
-description: Написание тестов на PHPUnit
+description: Unit тестирование через библеотеку PHPUnit
 ---
 
 # 🧪 PHPUnit
+
+## Используемая литература 
+
+* [https://phpunit.readthedocs.io/ru/latest/writing-tests-for-phpunit.html](https://phpunit.readthedocs.io/ru/latest/writing-tests-for-phpunit.html)
 
