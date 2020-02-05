@@ -12,6 +12,7 @@
 * [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
   * [🐘 PHP](computer-science/yazyki-programmirovaniya/php/README.md)
     * [📃 PSR](computer-science/yazyki-programmirovaniya/php/psr.md)
+    * [🧪 PHPUnit](computer-science/yazyki-programmirovaniya/php/phpunit.md)
     * [📦 Composer](computer-science/yazyki-programmirovaniya/php/composer.md)
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
