@@ -1,4 +1,4 @@
-# 🏍 Принципы DRY, KISS, YAGNI
+# 🏛️ 🏍 Принципы DRY, KISS, YAGNI
 
 ## DRY – Don’t repeat yourself \(не повторяй себя\)
 
