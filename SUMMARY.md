@@ -8,13 +8,13 @@
   * [🏛️ 🏍 Принципы DRY, KISS, YAGNI](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
   * [🏛️ 📐 Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
     * [🏛️ 📐 👻 Принципы S.O.L.I.D](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
-  * [🏛️ 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya.md)
+  * [🏛️ 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/README.md)
     * [🏛️ 🏎 🏗 Порождающие паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/README.md)
       * [🏛️ 🏎 🏗🕯 Паттерн одиночка](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-odinochka.md)
       * [🏛️  🏎  🏗 🐏 Паттерн прототип](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-prototip.md)
       * [🏛️ 🏎 🏗 🛠 Паттерн строитель](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-stroitel.md)
       * [🏛️ 🏎 🏗🏭 Паттерн фабрика](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-fabrika.md)
-* [🛹 Языки программирования](computer-science/yazyki-programmirovaniya.md)
+* [🛹 Языки программирования](computer-science/yazyki-programmirovaniya/README.md)
   * [🐘 PHP](computer-science/yazyki-programmirovaniya/php/README.md)
     * [📃 PSR](computer-science/yazyki-programmirovaniya/php/psr.md)
     * [🧪 PHPUnit](computer-science/yazyki-programmirovaniya/php/phpunit.md)
@@ -22,7 +22,9 @@
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
-* [🔷 Операционная система](computer-science/operacionnaya-sistema.md)
+* [🔷 Операционная система](computer-science/operacionnaya-sistema/README.md)
+  * [🔷 🐋Arch linux](computer-science/operacionnaya-sistema/arch-linux/README.md)
+    * [🔷 🐋 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
 
 ## 🐢 Биохакинг
 
