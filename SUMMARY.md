@@ -22,7 +22,7 @@
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
-* [🔷 Операционная система](computer-science/operacionnaya-sistema/README.md)
+* [🔷 Операционная система](computer-science/operacionnaya-sistema.md)
   * [🔷 🐋Arch linux](computer-science/operacionnaya-sistema/arch-linux/README.md)
     * [🔷 🐋 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
 
