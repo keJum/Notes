@@ -65,3 +65,11 @@ composer global require "squizlabs/php_codesniffer=*"
 * Python Path
 * Python Test Explorer for Visual Studio Code
 
+## Настройки setings.json
+
+### Отображение полоски 80 и 120 символов
+
+```javascript
+"editor.rulers": [80,120]
+```
+
