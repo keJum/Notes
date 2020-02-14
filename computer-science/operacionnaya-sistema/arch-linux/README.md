@@ -1,2 +1,2 @@
-# 🔷 👤 Arch linux
+# 🔷 🐋Arch linux
 
