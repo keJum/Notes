@@ -6,6 +6,7 @@
 
 * [🏛️ Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie/README.md)
   * [🏛️ 🏍 Принципы DRY, KISS, YAGNI](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
+  * [🏛️ 🏍 Парадигмы программирования](computer-science/arkhitekturnoe-proektirovanie/paradigmy-programmirovaniya.md)
   * [🏛️ 📐 Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
     * [🏛️ 📐 👻 Принципы S.O.L.I.D](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
   * [🏛️ 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/README.md)
@@ -23,8 +24,9 @@
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
 * [🔷 Операционная система](computer-science/operacionnaya-sistema.md)
-  * [🔷 🐋Arch linux](computer-science/operacionnaya-sistema/arch-linux/README.md)
-    * [🔷 🐋 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
+  * [🔷 👤 Arch linux](computer-science/operacionnaya-sistema/arch-linux/README.md)
+    * [🔷 👤 🧭 Установка цветных emoji](computer-science/operacionnaya-sistema/arch-linux/ustanovka-cvetnykh-emoji.md)
+    * [🔷 👤 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
 
 ## 🐢 Биохакинг
 
