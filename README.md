@@ -1,4 +1,10 @@
+---
+description: Место моих заметок
+---
+
 # Заметки разработчика
 
-[https://app.gitbook.com/@kejum/s/notes/](https://app.gitbook.com/@kejum/s/notes/)
+{% embed url="https://app.gitbook.com/@kejum/s/notes/" %}
+
+
 
