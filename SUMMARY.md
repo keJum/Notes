@@ -24,12 +24,10 @@
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
-* [🔷 Операционная система](computer-science/operacionnaya-sistema.md)
+* [🔷 Операционная система](computer-science/operacionnaya-sistema/README.md)
   * [🔷 👤 Arch linux](computer-science/operacionnaya-sistema/arch-linux/README.md)
     * [🔷 👤 🧭 Установка цветных emoji](computer-science/operacionnaya-sistema/arch-linux/ustanovka-cvetnykh-emoji.md)
     * [🔷 👤 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
 
 ## 🐢 Биохакинг
-
-* [Untitled](biokhaking/untitled.md)
 
