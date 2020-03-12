@@ -1,4 +1,8 @@
-# 🏛️ 🏍 Принципы DRY, KISS, YAGNI
+---
+description: 'DRY, KISS, YAGNI'
+---
+
+# 🏛️ 🎪 Принципы проектирования ПО
 
 ## DRY – Don’t repeat yourself \(не повторяй себя\)
 
