@@ -25,7 +25,6 @@ description: Visual Studio Code
 * Test Explorer UI
 * TODO Parser
 * Visual Studio IntelliCode
-* VSCode Dimmer Block
 * vscode-icons
 * vscode-pdf
 * Bookmarks
