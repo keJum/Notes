@@ -17,6 +17,7 @@
       * [🏛️ 🏎 🏗 🛠 Паттерн строитель](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-stroitel.md)
       * [🏛️ 🏎 🏗🏭 Паттерн фабрика](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/pattern-fabrika.md)
 * [🛹 Программирование](computer-science/yazyki-programmirovaniya/README.md)
+  * [🛹🐬 SQL](computer-science/yazyki-programmirovaniya/sql.md)
   * [🛹 🐘 PHP](computer-science/yazyki-programmirovaniya/php/README.md)
     * [🛹 🐘 📃 PSR](computer-science/yazyki-programmirovaniya/php/psr.md)
     * [🛹 🐘 🥋 Предопределенные классы PHP](computer-science/yazyki-programmirovaniya/php/predopredelennye-klassy-php.md)
