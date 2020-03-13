@@ -6,5 +6,7 @@ description: Язык запросов
 
 {% embed url="http://2sql.ru/" %}
 
+{% embed url="https://habr.com/ru/post/305926/" %}
+
 
 
