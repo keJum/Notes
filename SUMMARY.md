@@ -26,7 +26,7 @@
       * [🛹 🐘 🧪 PHPUnit: Написание тестов](computer-science/yazyki-programmirovaniya/php/phpunit/napisanie-testov-na-phpunit.md)
       * [🛹 🐘 🧪 PHPUnit: Фикстуры](computer-science/yazyki-programmirovaniya/php/phpunit/fikstury-phpunit.md)
       * [🛹 🐘 🧪 PHPUnit: Mock объекты](computer-science/yazyki-programmirovaniya/php/phpunit/untitled.md)
-    * [Untitled](computer-science/yazyki-programmirovaniya/php/untitled.md)
+    * [🛹 🐘 🚿Чистый код](computer-science/yazyki-programmirovaniya/php/untitled.md)
     * [🛹 🐘 📦 Composer](computer-science/yazyki-programmirovaniya/php/composer.md)
 * [🎰 Алгоритмы](computer-science/algoritmy.md)
 * [👽 Рабочее окружение](computer-science/rabochee-okruzhenie/README.md)
