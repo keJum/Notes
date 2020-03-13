@@ -8,7 +8,7 @@
   * [🏛️ 🎪 Принципы проектирования ПО](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
   * [🏛️ 🏹 Парадигмы программирования](computer-science/arkhitekturnoe-proektirovanie/paradigmy-programmirovaniya.md)
   * [🏛️ 📐 Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
-    * [🏛️ 📐🗿 S.O.L.I.D](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
+    * [🏛️ 📐🗿 SOLID](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/principy-s.o.l.i.d.md)
     * [🏛️ 📐🎢 GRASP](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/grasp.md)
   * [🏛️ 🏎 Паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/README.md)
     * [🏛️ 🏎 🏗 Порождающие паттерны проектирования](computer-science/arkhitekturnoe-proektirovanie/patterny-proektirovaniya/porozhdayushie-patterny-proektirovaniya/README.md)
