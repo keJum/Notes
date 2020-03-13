@@ -18,7 +18,9 @@ DRY — это философия, разбивающая логику на пр
 
 ## Используемая литература 
 
-* [https://habr.com/ru/post/144611/](https://habr.com/ru/post/144611/)
+{% embed url="https://habr.com/ru/post/144611/" %}
+
+
 
 
 

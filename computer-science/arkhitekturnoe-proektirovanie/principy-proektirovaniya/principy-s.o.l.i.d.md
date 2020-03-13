@@ -34,6 +34,11 @@ description: 'Стандарт программирования, использ�
 
 ## Используемая литература
 
-* [https://medium.com/webbdev/solid-4ffc018077da](https://medium.com/webbdev/solid-4ffc018077da)
-* [https://habr.com/ru/post/208442/](https://habr.com/ru/post/208442/)
+{% embed url="https://medium.com/webbdev/solid-4ffc018077da" %}
+
+
+
+{% embed url="https://habr.com/ru/post/208442/" %}
+
+
 

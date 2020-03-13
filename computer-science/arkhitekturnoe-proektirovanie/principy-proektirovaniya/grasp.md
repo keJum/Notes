@@ -53,9 +53,17 @@ GRASP — это хорошо документированные, стандар
 
 ## Используемая литератцра 
 
-* [http://blogerator.org/page/oop-patterny-i-principy-grasp](http://blogerator.org/page/oop-patterny-i-principy-grasp)
-* [https://habr.com/ru/post/38323/](https://habr.com/ru/post/38323/)
-* [https://www.youtube.com/watch?v=vmeLPcI-Lqk](https://www.youtube.com/watch?v=vmeLPcI-Lqk)
+{% embed url="http://blogerator.org/page/oop-patterny-i-principy-grasp" %}
+
+
+
+{% embed url="https://habr.com/ru/post/38323/" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=vmeLPcI-Lqk" %}
+
+
 
 
 
