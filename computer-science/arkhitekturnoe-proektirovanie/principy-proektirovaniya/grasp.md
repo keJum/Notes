@@ -55,8 +55,6 @@ GRASP — это хорошо документированные, стандар
 
 {% embed url="http://blogerator.org/page/oop-patterny-i-principy-grasp" %}
 
-
-
 {% embed url="https://habr.com/ru/post/38323/" %}
 
 
