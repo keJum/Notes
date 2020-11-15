@@ -36,7 +36,7 @@
     * [🔷 👤 🧭 Установка цветных emoji](computer-science/operacionnaya-sistema/arch-linux/ustanovka-cvetnykh-emoji.md)
     * [🔷 👤 📦 Pacman](computer-science/operacionnaya-sistema/arch-linux/pacman.md)
 * [🚨 Ошибки](computer-science/oshibki.md)
-* [🥋 Интересные приемы](computer-science/interesnye-priemy.md)
+* [🥋 Приемы](computer-science/interesnye-priemy.md)
 
 ## 🐢 Биохакинг
 
