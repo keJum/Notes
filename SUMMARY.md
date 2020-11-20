@@ -4,7 +4,7 @@
 
 ## 💻Computer Science
 
-* [🏛️ Архитектурное проектирование](computer-science/arkhitekturnoe-proektirovanie/README.md)
+* [🏛️ Архитектура](computer-science/arkhitekturnoe-proektirovanie/README.md)
   * [🏛️ 🎪 Принципы проектирования ПО](computer-science/arkhitekturnoe-proektirovanie/principa-razrabotki-po.md)
   * [🏛️ 🏹 Парадигмы программирования](computer-science/arkhitekturnoe-proektirovanie/paradigmy-programmirovaniya.md)
   * [🏛️ 📐 Принципы проектирования](computer-science/arkhitekturnoe-proektirovanie/principy-proektirovaniya/README.md)
