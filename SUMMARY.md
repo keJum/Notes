@@ -33,7 +33,7 @@
   * [🟦 Расширения для VSCODE](computer-science/rabochee-okruzhenie/rasshireniya-dlya-vscode.md)
 * [🔷 Операционная система](computer-science/operacionnaya-sistema/README.md)
   * [🔷 🐧Linux](computer-science/operacionnaya-sistema/linux/README.md)
-    * [🔷 Утилиты](computer-science/operacionnaya-sistema/linux/utility.md)
+    * [🔷 🔧 Утилиты](computer-science/operacionnaya-sistema/linux/utility.md)
     * [🔷 🧰 Дистрибутивы](computer-science/operacionnaya-sistema/linux/distributivy/README.md)
       * [🔷 👤 Arch linux](computer-science/operacionnaya-sistema/linux/distributivy/arch-linux/README.md)
         * [🔷 👤 🧭 Установка цветных emoji](computer-science/operacionnaya-sistema/linux/distributivy/arch-linux/ustanovka-cvetnykh-emoji.md)
